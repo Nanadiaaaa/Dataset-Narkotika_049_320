@@ -11,7 +11,7 @@
 ---
 
 Penelitian ini dilakukan untuk menganalisa putusan pengadilan terkait tindak pidana Narkotika.
-##Deskripsi Dataset
+## Deskripsi Dataset
 Dataset putusan pengadilan negeri merupakan kumpulan data yang berisi informasi mengenai putusan - putusan yang dikeluarkan oleh pengadilan negeri. Dataset yang kami gunakan adalah dataset tindak pidana Narkotika  Denpasar pada tahun 2023.  
 
 ## Sumber Data
@@ -28,4 +28,4 @@ Dataset dapat diakses di [dataset putusan pengadilan narkotika Denpasar ](https:
 ## Catatan Penting
 1. Kerahasiaan: Pengguna dataset diharapkan untuk menjaga kerahasiaan dan privasi pihak yang terlibat dalam kasus-kasus tersebut.
 2. Kepatuhan Hukum: Penggunaan dataset ini harus mematuhi regulasi dan etika yang berlaku dalam lingkup hukum.
-Kontak: Jika terdapat pertanyaan lebih lanjut atau permintaan informasi tambahan, silakan hubungi penyedia dataset.
+3. Kontak: Jika terdapat pertanyaan lebih lanjut atau permintaan informasi tambahan, silakan hubungi penyedia dataset.
